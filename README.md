@@ -1,1 +1,2 @@
-# cmpe255-spring19-lab2
+# CMPE 255 - Data Mining
+## Lab 2
